@@ -4,7 +4,7 @@
 
     <groupId>org.ea</groupId>
     <artifactId>VersioningDemo</artifactId>
-    <version>0.7-SNAPSHOT</version>
+    <version>develop</version>
 
     <properties>
         <maven.compiler.target>1.8</maven.compiler.target>
