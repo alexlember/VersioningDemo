@@ -27,7 +27,7 @@
         <connection>scm:git:git@github.com:alexlember/VersioningDemo.git</connection>
         <developerConnection>scm:git:git@github.com:alexlember/VersioningDemo.git</developerConnection>
         <url>https://github.com/alexlember/VersioningDemo</url>
-        <tag>@{project.version}</tag>
+        <tag>release-0.11</tag>
     </scm>
 
     <build>
