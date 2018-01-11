@@ -4,7 +4,7 @@
 
     <groupId>ru.prime</groupId>
     <artifactId>VersioningDemo</artifactId>
-    <version>0.12-SNAPSHOT</version>
+    <version>0.13-SNAPSHOT</version>
     <dependencies>
         <dependency>
             <groupId>ru.prime</groupId>
@@ -27,7 +27,7 @@
         <connection>scm:git:git@github.com:alexlember/VersioningDemo.git</connection>
         <developerConnection>scm:git:git@github.com:alexlember/VersioningDemo.git</developerConnection>
         <url>https://github.com/alexlember/VersioningDemo</url>
-        <tag>release-0.12</tag>
+        <tag>@{project.version}</tag>
     </scm>
 
     <build>
