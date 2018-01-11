@@ -40,7 +40,7 @@
                         <manifest>
                             <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
                             <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
-                            <mainClass>org.ea.VersioningDemo</mainClass>
+                            <mainClass>ru.prime.VersioningDemo</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
